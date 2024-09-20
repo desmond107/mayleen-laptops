@@ -35,6 +35,52 @@ const defaultTasks: Task[] = [
     completed: true,
     id: "l1",
   },
+  {
+    title: "Hp laptop core i5 intel",
+    important: false,
+    description: "5CG7011TGX",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l1",
+  },
+  {
+    title: "Hp laptop core i7 8th gen",
+    important: false,
+    description: "5CG82233FL",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l1",
+  },
+  {
+    title: "Hp laptop core i7 10th gen",
+    important: false,
+    description: "5CG90461XF",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l1",
+  },
+  
+  {
+    title: "HP elitbook core i7",
+    important: false,
+    description: "5CG820223K",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l1",
+  },
+  {
+    title: "Hp core i5 iris",
+    important: false,
+    description: "5CD318B78Z",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l1",
+  },
  
 ];
 
