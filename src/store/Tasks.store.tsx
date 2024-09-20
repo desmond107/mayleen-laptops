@@ -24,7 +24,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l2",
   },
   {
     title: "HP Envy Laptop 16xxxx",
@@ -33,7 +33,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l3",
   },
   {
     title: "Hp laptop core i5 intel",
@@ -42,7 +42,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l4",
   },
   {
     title: "Hp laptop core i7 8th gen",
@@ -51,7 +51,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l5",
   },
   {
     title: "Hp laptop core i7 10th gen",
@@ -60,7 +60,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l6",
   },
   
   {
@@ -70,7 +70,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l7",
   },
   {
     title: "Hp core i5 iris",
@@ -79,7 +79,7 @@ const defaultTasks: Task[] = [
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "l1",
+    id: "l8",
   },
  
 ];
