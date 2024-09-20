@@ -8,15 +8,15 @@ import {
 import { Task } from "../interfaces";
 
 const defaultTasks: Task[] = [
-  //{
-   // title: "Task 1",
-    //important: false,
-    //description: "This is the description for this task",
-   // date: "2023-04-12",
-    //dir: "Main",
-    //completed: true,
-    //id: "t1",
-  //},
+  {
+    title: "HP Envy Laptop 16xxxx",
+    important: false,
+    description: "CND3240N4F",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "Gideon masinde",
+  },
  
 ];
 
