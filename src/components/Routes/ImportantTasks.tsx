@@ -13,7 +13,7 @@ const ImportantTasks: React.FC = () => {
     setImportantTasks(filteredTasks);
   }, [tasks]);
 
-  useDescriptionTitle("Tasks marked as important", "Important tasks");
+  useDescriptionTitle("Laptops marked as important", "Important laptops");
 
   return (
     <LayoutRoutes title="Important tasks" tasks={importantTasks}></LayoutRoutes>

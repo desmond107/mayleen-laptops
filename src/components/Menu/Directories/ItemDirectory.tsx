@@ -51,7 +51,7 @@ const ItemDirectory: React.FC<{ dir: string; classActive: string }> = ({
         <ModalConfirm
           onClose={() => setModalIsShown(false)}
           onConfirm={deleteDirectoryHandler}
-          text="This directory and all its tasks will be deleted."
+          text="This directory and all its laptop details will be deleted."
         />
       )}
       <li

@@ -30,7 +30,7 @@ const TasksDone: React.FC = () => {
       {todaysTasks.length !== 0 && (
         <div className="mt-8">
           <span className="flex justify-between mb-2">
-            <span>Tasks today</span> {todayTasksDone.length}/
+            <span>Laptops update</span> {todayTasksDone.length}/
             {todaysTasks.length}
           </span>
           <div className="barProgress">
@@ -41,7 +41,7 @@ const TasksDone: React.FC = () => {
       {tasks.length !== 0 && (
         <div className="mt-6">
           <span className="flex justify-between mb-2">
-            <span>All tasks </span> {allTasksDone.length}/{tasks.length}
+            <span>All laptops </span> {allTasksDone.length}/{tasks.length}
           </span>
           <div className="barProgress">
             <div style={{ width: percentageAllTasks + "%" }}></div>
@@ -51,7 +51,7 @@ const TasksDone: React.FC = () => {
 
       {todaysTasks.length === 0 && (
         <span className="mt-6 block pt-4 border-t-slate-200 dark:border-t-slate-700/[.3] border-t-2">
-          No tasks today
+          laptop-inventory-list
         </span>
       )}
 

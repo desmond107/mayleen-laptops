@@ -26,7 +26,7 @@ const BtnToggleCompleted: React.FC<{
       onClick={() => toggleTaskCompleted(taskId)}
     >
       <span className="block py-1 px-3 absolute invisible sm:static sm:visible">
-        {taskCompleted ? "completed" : "uncompleted"}
+        {taskCompleted ? "inUse" : "inSafe"}
       </span>
       <span className=" sm:hidden w-6 h-6 grid place-items-center">
         {taskCompleted ? (
