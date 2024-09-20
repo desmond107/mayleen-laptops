@@ -12,10 +12,21 @@ const defaultTasks: Task[] = [
     title: "HP Envy Laptop 16xxxx",
     important: false,
     description: "CND3240N4F",
+    user: "Gideon masinde",
     date: "2024-09-20",
     dir: "Main",
     completed: true,
-    id: "Gideon masinde",
+    id: "l1",
+  },
+  {
+    title: "HP Envy Laptop 16xxxx",
+    important: false,
+    description: "CND3301BBN",
+    user: "Roy Rialem",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l1",
   },
  
 ];
