@@ -81,6 +81,33 @@ const defaultTasks: Task[] = [
     completed: true,
     id: "l8",
   },
+  {
+    title: "HP LAPTOP 145-dq2xxx",
+    important: false,
+    description: "00331-10000-00001-AA574",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l10",
+  },
+  {
+    title: "Hp Laptop core i3",
+    important: false,
+    description: "CND66IIGWH",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l11",
+  },
+  {
+    title: "Lenovo core i5",
+    important: false,
+    description: "pPF9XBOC26066",
+    date: "2024-09-20",
+    dir: "Main",
+    completed: true,
+    id: "l12",
+  },
  
 ];
 
