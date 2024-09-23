@@ -14,7 +14,7 @@ const defaultTasks: Task[] = [
     description: "CND3240N4F",
     date: "2024-09-20",
     dir: "Main",
-    completed: true,
+    completed: false,
     id: "l1",
   },
   {
